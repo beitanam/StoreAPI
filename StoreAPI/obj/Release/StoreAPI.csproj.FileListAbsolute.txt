@@ -1,0 +1,10 @@
+E:\Users\Administrator\source\repos\WindowsStore\StoreAPI\bin\Release\StoreAPI.dll
+E:\Users\Administrator\source\repos\WindowsStore\StoreAPI\bin\Release\StoreAPI.pdb
+E:\Users\Administrator\source\repos\WindowsStore\StoreAPI\bin\Release\HtmlAgilityPack.dll
+E:\Users\Administrator\source\repos\WindowsStore\StoreAPI\bin\Release\HtmlAgilityPack.pdb
+E:\Users\Administrator\source\repos\WindowsStore\StoreAPI\bin\Release\HtmlAgilityPack.xml
+E:\Users\Administrator\source\repos\WindowsStore\StoreAPI\obj\Release\StoreAPI.csproj.AssemblyReference.cache
+E:\Users\Administrator\source\repos\WindowsStore\StoreAPI\obj\Release\StoreAPI.csproj.CoreCompileInputs.cache
+E:\Users\Administrator\source\repos\WindowsStore\StoreAPI\obj\Release\StoreAPI.csproj.CopyComplete
+E:\Users\Administrator\source\repos\WindowsStore\StoreAPI\obj\Release\StoreAPI.dll
+E:\Users\Administrator\source\repos\WindowsStore\StoreAPI\obj\Release\StoreAPI.pdb
