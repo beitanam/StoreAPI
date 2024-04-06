@@ -167,6 +167,7 @@ namespace StoreAPI
                         if (linkName.Contains(arch) || linkName.Contains("x86") || linkName.Contains("neutral"))
                         {
                             //hey fix this cause we send cateogry id and not packg id
+                            //Btw prob add support for listing dependencies , perhaps separate?
                             if (linkName.Contains(".appx") && linkName.Contains(appPfnIdentifier[0]))
                             {
                                 appFile = node.Attributes["href"].Value;
